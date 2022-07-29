@@ -12,7 +12,7 @@ A front-end developer, often use Vue, React, NodeJs to realize my idea.
 
 :raised_eyebrow: Want to replace those charging tools that are commonly used at work.  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/jmingzi/xprocess">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmingzi&repo=xprocess&show_owner=jmingzi" />
 </a>
 
@@ -20,6 +20,8 @@ A front-end developer, often use Vue, React, NodeJs to realize my idea.
 
 ![](https://img.shields.io/badge/ideas-form_linkage-orange?style=for-the-badge&logo=AngelList&logoColor=orange)
 ![](https://img.shields.io/badge/ideas-time_travel-green?style=for-the-badge&logo=AngelList&logoColor=green)
+
+:writing_hand: Want to find a standard solution.
 
 - :sassy_man: Form linkage
 - :sassy_man: Time travel
