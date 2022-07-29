@@ -13,7 +13,7 @@ A front-end developer, often use Vue, React, NodeJs to realize my idea.
 :raised_eyebrow: Want to replace those charging tools that are commonly used at work.  
 
 <a href="https://github.com/jmingzi/xprocess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmingzi&repo=xprocess&show_owner=jmingzi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmingzi&repo=xprocess&show_owner=jmingzi&a=1" />
 </a>
 
 ## Thinking
