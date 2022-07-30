@@ -18,10 +18,12 @@ A front-end developer, often use Vue, React, NodeJs to realize my idea.
 
 ## Thinking
 
-![](https://img.shields.io/badge/ideas-form_linkage-orange?style=for-the-badge&logo=AngelList&logoColor=orange)
-![](https://img.shields.io/badge/ideas-time_travel-green?style=for-the-badge&logo=AngelList&logoColor=green)
+![](https://img.shields.io/badge/ideas-form_linkage-orange?style=flat-square&logo=AngelList&logoColor=orange)
+![](https://img.shields.io/badge/ideas-time_travel-green?style=flat-square&logo=AngelList&logoColor=green)
+![](https://img.shields.io/badge/doing-slate_editor-pink?style=flat-square&logo=AngelList&logoColor=green)
 
 :writing_hand: Want to find a standard solution.
 
 - :sassy_man: Form linkage
 - :sassy_man: Time travel
+- :sassy_man: Rich text editor based on slatejs
