@@ -1,4 +1,6 @@
-# :thinking: Hi
+# :thinking: Hi 
+
+![](https://komarev.com/ghpvc/?username=jmingzi&color=ff69b4&label=PV+Since+2022-08-12)
 
 A front-end developer, often use Vue, React, NodeJs to realize my idea.
 
